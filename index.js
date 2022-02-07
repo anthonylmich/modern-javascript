@@ -22,3 +22,4 @@ let name = "jimmy",
   time = "tuesday";
 const greeting = `Hey ${name}! Hows your ${time} been?`;
 console.log(greeting);
+console.log("foods and shiznit");
